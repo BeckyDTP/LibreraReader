@@ -69,7 +69,7 @@
    <string name="bold_font">Pogrubiona</string>
    <string name="italic_font">Kursywa</string>
    <string name="bold_italic_font">Pogrubiona kursywa</string>
-   <string name="font_for_headers">Czcionka dla nagłówków</string>
+   <string name="font_for_headers">Nagłówki</string>
    <string name="enable_volume_keys">Przewijanie przyciskami głośności</string>
    <string name="reverse_keys">Odwróć klawisze</string>
    <string name="screen_orientation">Orientacja ekranu</string>
@@ -450,7 +450,7 @@
    <string name="text_highlight_mode_is_enable">Tryb podświetlania tekstu jest włączony</string>
    <string name="text_highlight_mode_is_disable">Tryb podświetlania tekstu jest wyłączony</string>
    <string name="application_error_please_send_this_report_by_emial">Błąd aplikacji, proszę wysłać ten raport przez e-mail</string>
-   <string name="pause_reading_if_the_incoming_call_or_other_sounds">Wstrzymaj czytanie, jeśli przychodzące połączenie lub inne dźwięki</string>
+   <string name="pause_reading_if_the_incoming_call_or_other_sounds">Wstrzymaj czytanie przy połączeniach przychodzących, powiadomieniach itp.</string>
    <string name="add_resource">Dodaj zasób</string>
    <string name="do_you_want_to_download_more_book_fonts_10mb_">Czy chcesz pobrać więcej czcionek książek (10 MB)?</string>
    <string name="hyphenation_language">Język dzielenia wyrazów</string>
@@ -495,8 +495,8 @@
    <string name="chapter_format">Format legendy</string>
    <string name="play_a_music_file">Odtwórz plik muzyczny</string>
    <string name="rate_us">Oceń nas</string>
-   <string name="reset">Nastawić</string>
-   <string name="status_bar_location">Położenie paska stanu</string>
+   <string name="reset">Resetuj</string>
+   <string name="status_bar_location">Położenie</string>
    <string name="add_to_bookmark">Dodaj do zakładek</string>
-   <string name="fast_reading">Szybki odczyt (RSVP)</string>
+   <string name="fast_reading">Szybkie czytanie (RSVP)</string>
 </resources>
